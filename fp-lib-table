@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name tssop_38)(type KiCad)(uri "$(KIPRJMOD)/tssop_38.pretty")(options "")(descr ""))
+  (lib (name 2300HT)(type KiCad)(uri "$(KIPRJMOD)/2300HT.pretty")(options "")(descr ""))
+  (lib (name PG_TDSON_8)(type KiCad)(uri "$(KIPRJMOD)/PG_TDSON_8.pretty")(options "")(descr ""))
+  (lib (name stuff)(type KiCad)(uri "$(KIPRJMOD)/stuff.pretty")(options "")(descr ""))
+  (lib (name TI_Footprints)(type KiCad)(uri "$(KIPRJMOD)/TI_Footprints.pretty")(options "")(descr ""))
+)
