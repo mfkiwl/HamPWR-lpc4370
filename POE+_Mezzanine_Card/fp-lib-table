@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name 2300HT)(type KiCad)(uri /home/alex/KiCad/HamPWR/2300HT.pretty)(options "")(descr ""))
+  (lib (name PG_TDSON_8)(type KiCad)(uri /home/alex/KiCad/HamPWR/PG_TDSON_8.pretty)(options "")(descr ""))
+  (lib (name stuff)(type KiCad)(uri /home/alex/KiCad/HamPWR/stuff.pretty)(options "")(descr ""))
+  (lib (name TI_Footprints)(type KiCad)(uri /home/alex/KiCad/HamPWR/TI_Footprints.pretty)(options "")(descr ""))
+  (lib (name tssop_38)(type KiCad)(uri /home/alex/KiCad/HamPWR/tssop_38.pretty)(options "")(descr ""))
+)

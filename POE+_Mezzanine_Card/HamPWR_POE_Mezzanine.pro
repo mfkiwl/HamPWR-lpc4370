@@ -1,4 +1,4 @@
-update=Mo 21 Mai 2018 16:18:17 CEST
+update=Mo 21 Mai 2018 00:31:02 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,12 +61,11 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=lt3790
-LibName34=SQJ459EP
-LibName35=bsc032n04ls
-LibName36=bq24765
-LibName37=mosfets
-LibName38=rjhse538x04
-LibName39=sm51589pel
-LibName40=df12
-LibName41=lpc4370
+LibName33=/home/alex/KiCad/HamPWR/df12
+LibName34=/home/alex/KiCad/HamPWR/sm51589pel
+LibName35=/home/alex/KiCad/HamPWR/rjhse538x04
+LibName36=/home/alex/KiCad/HamPWR/mosfets
+LibName37=/home/alex/KiCad/HamPWR/bq24765
+LibName38=/home/alex/KiCad/HamPWR/SQJ459EP
+LibName39=/home/alex/KiCad/HamPWR/bsc032n04ls
+LibName40=/home/alex/KiCad/HamPWR/lt3790
